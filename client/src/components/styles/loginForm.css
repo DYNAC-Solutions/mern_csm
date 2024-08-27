@@ -1,0 +1,26 @@
+form,
+form .formBlock {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+form {
+    gap: 15px;
+}
+
+form .formBlock {
+    gap: 5px;
+}
+
+form .formBlock label {
+    text-transform: uppercase;
+    font-size: 1.15em;
+    font-weight: 500;
+}
+
+form .formBlock input {
+
+}
+
